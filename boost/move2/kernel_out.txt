@@ -1,0 +1,200 @@
+write some ./tools/testing/selftests/powerpc/ptrace/child.h head file usage examples
+=====
+Connected to server: localhost 32349
+Server response: finifsh
+=====
+write some ./include/linux/sunrpc/xprt.h head file usage examples
+=====
+Connected to server: localhost 32349
+Server response: finifsh
+=====
+write some ./fs/ubifs/ubifs-media.h head file usage examples
+=====
+Connected to server: localhost 32349
+Server response: finifsh
+=====
+write some ./include/linux/gnss.h head file usage examples
+=====
+Connected to server: localhost 32349
+Server response: finifsh
+=====
+write some ./include/media/rcar-fcp.h head file usage examples
+=====
+Connected to server: localhost 32349
+Server response: finifsh
+=====
+write some ./net/openvswitch/flow.h head file usage examples
+=====
+Connected to server: localhost 32349
+Server response: finifsh
+=====
+write some ./include/linux/badblocks.h head file usage examples
+=====
+Connected to server: localhost 32349
+Server response: finifsh
+=====
+write some ./tools/perf/util/evsel_fprintf.h head file usage examples
+=====
+Connected to server: localhost 32349
+Server response: finifsh
+=====
+write some ./include/linux/bma150.h head file usage examples
+=====
+Connected to server: localhost 32349
+Server response: finifsh
+=====
+write some ./crypto/asymmetric_keys/asymmetric_keys.h head file usage examples
+=====
+Connected to server: localhost 32349
+Server response: 
+=====
+write some ./include/uapi/linux/serial_reg.h head file usage examples
+=====
+=====
+write some ./include/linux/netfilter/nf_conntrack_ftp.h head file usage examples
+=====
+=====
+write some ./include/linux/iio/frequency/adf4350.h head file usage examples
+=====
+=====
+write some ./include/linux/platform_data/mtd-orion_nand.h head file usage examples
+=====
+=====
+write some ./include/uapi/linux/aio_abi.h head file usage examples
+=====
+=====
+write some ./tools/testing/memblock/tests/basic_api.h head file usage examples
+=====
+=====
+write some ./include/dt-bindings/interconnect/qcom,qcs404.h head file usage examples
+=====
+=====
+write some ./fs/btrfs/bio.h head file usage examples
+=====
+=====
+write some ./fs/xfs/xfs_stats.h head file usage examples
+=====
+=====
+write some ./lib/zstd/common/compiler.h head file usage examples
+=====
+=====
+write some ./include/linux/virtio.h head file usage examples
+=====
+=====
+write some ./net/dsa/master.h head file usage examples
+=====
+=====
+write some ./include/linux/sound.h head file usage examples
+=====
+=====
+write some ./include/xen/arm/swiotlb-xen.h head file usage examples
+=====
+=====
+write some ./tools/power/cpupower/utils/builtin.h head file usage examples
+=====
+=====
+write some ./include/linux/blktrace_api.h head file usage examples
+=====
+=====
+write some ./net/tipc/addr.h head file usage examples
+=====
+=====
+write some ./include/linux/mfd/rohm-shared.h head file usage examples
+=====
+=====
+write some ./include/video/sisfb.h head file usage examples
+=====
+=====
+write some ./fs/nfs/delegation.h head file usage examples
+=====
+=====
+write some ./include/dt-bindings/clock/axis,artpec6-clkctrl.h head file usage examples
+=====
+=====
+write some ./fs/jfs/jfs_incore.h head file usage examples
+=====
+=====
+write some ./include/media/videobuf-vmalloc.h head file usage examples
+=====
+=====
+write some ./include/linux/scc.h head file usage examples
+=====
+=====
+write some ./fs/jffs2/nodelist.h head file usage examples
+=====
+=====
+write some ./net/netfilter/ipset/ip_set_hash_gen.h head file usage examples
+=====
+=====
+write some ./include/net/llc_s_ev.h head file usage examples
+=====
+=====
+write some ./io_uring/io-wq.h head file usage examples
+=====
+=====
+write some ./include/dt-bindings/reset/stih416-resets.h head file usage examples
+=====
+=====
+write some ./include/linux/thunderbolt.h head file usage examples
+=====
+=====
+write some ./include/dt-bindings/clock/imx27-clock.h head file usage examples
+=====
+=====
+write some ./include/linux/of_mdio.h head file usage examples
+=====
+=====
+write some ./include/uapi/linux/netfilter_ipv4/ipt_LOG.h head file usage examples
+=====
+=====
+write some ./include/linux/dsa/brcm.h head file usage examples
+=====
+=====
+write some ./include/linux/usb/uas.h head file usage examples
+=====
+=====
+write some ./include/linux/fpga/adi-axi-common.h head file usage examples
+=====
+=====
+write some ./include/linux/ipc_namespace.h head file usage examples
+=====
+=====
+write some ./include/rv/instrumentation.h head file usage examples
+=====
+=====
+write some ./include/linux/regulator/da9121.h head file usage examples
+=====
+=====
+write some ./include/linux/pci_hotplug.h head file usage examples
+=====
+=====
+write some ./include/linux/can/rx-offload.h head file usage examples
+=====
+=====
+write some ./include/linux/sh_eth.h head file usage examples
+=====
+=====
+write some ./include/uapi/linux/kernelcapi.h head file usage examples
+=====
+=====
+write some ./include/linux/soc/renesas/r9a06g032-sysctrl.h head file usage examples
+=====
+=====
+write some ./tools/thermal/lib/uptimeofday.h head file usage examples
+=====
+=====
+write some ./include/linux/can/platform/sja1000.h head file usage examples
+=====
+=====
+write some ./include/linux/iscsi_boot_sysfs.h head file usage examples
+=====
+=====
+write some ./include/uapi/linux/hdlc/ioctl.h head file usage examples
+=====
+=====
+write some ./include/linux/irq_work.h head file usage examples
+=====
+=====
+write some ./include/net/gro.h head file usage examples
+=====
+=====
