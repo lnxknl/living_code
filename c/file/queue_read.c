@@ -1,6 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <unistd.h>
+#include <sys/types.h>
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <netdb.h>
+
+#define PORT 12345
+
 
 #define MAX_QUEUE_SIZE 5
 
@@ -67,6 +75,27 @@ int main() {
     char *line = NULL;
     size_t len = 0;
     ssize_t read;
+
+        int sockfd, n;
+    struct sockaddr_in serv_addr;
+    struct hostent *server;
+
+    char buffer[256];
+//    sprintf(buffer, "Hello, server!");
+
+    sockfd = socket(AF_INET, SOCK_STREAM, 0);
+    if (sockfd < 0) {
+        perror("ERROR opening socket");
+        exit(1);
+    }
+
+    server = gethostbyname("localhost");
+    if (server == NULL) {
+        fprintf(stderr,"ERROR, no such host\n");
+        exit(0);
+    }
+
+
 
     Queue *q = create_queue();
 
